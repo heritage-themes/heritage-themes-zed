@@ -1092,7 +1092,7 @@
             "color": "#9A4E10"
           },
           "function.definition": {
-            "color": "#A85A00",
+            "color": "#A25700",
             "font_weight": 700
           },
           "function.builtin": {
@@ -1116,11 +1116,11 @@
             "font_weight": 700
           },
           "title": {
-            "color": "#A85A00",
+            "color": "#A25700",
             "font_weight": 700
           },
           "markup.heading": {
-            "color": "#A85A00",
+            "color": "#A25700",
             "font_weight": 700
           },
           "emphasis": {

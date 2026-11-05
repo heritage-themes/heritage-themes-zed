@@ -612,7 +612,7 @@
         "ghost_element.selected": "#CFE0F2",
         "ghost_element.disabled": "#00000000",
         "drop_target.background": "#04276C14",
-        "drop_target.border": "#8D6000",
+        "drop_target.border": "#865B00",
         "text": "#2A2026",
         "text.muted": "#615256",
         "text.placeholder": "#615256",
@@ -644,7 +644,7 @@
         "editor.highlighted_line.background": "#04276C14",
         "editor.debugger_active_line.background": "#D0E7FFB0",
         "editor.line_number": "#AF9792",
-        "editor.active_line_number": "#B34700",
+        "editor.active_line_number": "#AA4300",
         "editor.hover_line_number": "#615256",
         "editor.invisible": "#EBD6CC",
         "editor.wrap_guide": "#EBD6CC",
@@ -704,7 +704,7 @@
         "vim.yank.background": "#F3C70262",
         "conflict": "#A3207F",
         "conflict.background": "#EEE60522",
-        "conflict.border": "#8D6000",
+        "conflict.border": "#865B00",
         "created": "#337012",
         "created.background": "#BFFFCE66",
         "created.border": "#5FA05A",
@@ -749,8 +749,8 @@
         ],
         "players": [
           {
-            "cursor": "#B34700",
-            "background": "#B34700",
+            "cursor": "#AA4300",
+            "background": "#AA4300",
             "selection": "#B5DCFF98"
           },
           {
@@ -795,15 +795,15 @@
             "font_style": "italic"
           },
           "comment.doc": {
-            "color": "#7A6450",
+            "color": "#745F4C",
             "font_style": "italic"
           },
           "comment.documentation": {
-            "color": "#7A6450",
+            "color": "#745F4C",
             "font_style": "italic"
           },
           "string.doc": {
-            "color": "#7A6450",
+            "color": "#745F4C",
             "font_style": "italic"
           },
           "keyword.jsdoc": {
@@ -833,34 +833,34 @@
             "color": "#A0346C"
           },
           "string.escape": {
-            "color": "#8D6000",
+            "color": "#865B00",
             "font_weight": 700
           },
           "keyword.operator.regex": {
-            "color": "#8D6000",
+            "color": "#865B00",
             "font_weight": 700
           },
           "operator.regex": {
-            "color": "#8D6000",
+            "color": "#865B00",
             "font_weight": 700
           },
           "punctuation.bracket.regex": {
-            "color": "#8D6000",
+            "color": "#865B00",
             "font_weight": 700
           },
           "punctuation.delimiter.regex": {
-            "color": "#8D6000",
+            "color": "#865B00",
             "font_weight": 700
           },
           "number.quantifier.regex": {
-            "color": "#5E6A20",
+            "color": "#5D6920",
             "font_weight": 700
           },
           "number": {
-            "color": "#5E6A20"
+            "color": "#5D6920"
           },
           "float": {
-            "color": "#5E6A20"
+            "color": "#5D6920"
           },
           "boolean": {
             "color": "#944F04",
@@ -939,27 +939,27 @@
             "font_weight": 700
           },
           "constant": {
-            "color": "#056A9D",
+            "color": "#05699C",
             "font_weight": 700,
             "font_style": "italic"
           },
           "variant": {
-            "color": "#056A9D",
+            "color": "#05699C",
             "font_weight": 700,
             "font_style": "italic"
           },
           "enum.member": {
-            "color": "#056A9D",
+            "color": "#05699C",
             "font_weight": 700,
             "font_style": "italic"
           },
           "string.special.symbol": {
-            "color": "#056A9D",
+            "color": "#05699C",
             "font_weight": 700,
             "font_style": "italic"
           },
           "type.enum.member": {
-            "color": "#056A9D",
+            "color": "#05699C",
             "font_weight": 700,
             "font_style": "italic"
           },
@@ -1008,14 +1008,14 @@
             "font_style": "italic"
           },
           "type.parameter": {
-            "color": "#5E6A20",
+            "color": "#5D6920",
             "font_weight": 700
           },
           "type.unit": {
             "color": "#A0346C"
           },
           "lifetime": {
-            "color": "#5E6A20",
+            "color": "#5D6920",
             "font_style": "italic"
           },
           "namespace": {
@@ -1061,23 +1061,23 @@
             "font_style": "italic"
           },
           "property": {
-            "color": "#1A7728"
+            "color": "#197327"
           },
           "variable.other.member": {
-            "color": "#1A7728"
+            "color": "#197327"
           },
           "attribute.jsx": {
-            "color": "#1A7728"
+            "color": "#197327"
           },
           "function": {
-            "color": "#1E7272"
+            "color": "#1D6E6E"
           },
           "function.definition": {
-            "color": "#067272",
+            "color": "#066F6F",
             "font_weight": 700
           },
           "function.builtin": {
-            "color": "#1E7272",
+            "color": "#1D6E6E",
             "font_style": "italic"
           },
           "function.decorator": {
@@ -1097,11 +1097,11 @@
             "font_weight": 700
           },
           "title": {
-            "color": "#067272",
+            "color": "#066F6F",
             "font_weight": 700
           },
           "markup.heading": {
-            "color": "#067272",
+            "color": "#066F6F",
             "font_weight": 700
           },
           "emphasis": {
@@ -1119,11 +1119,11 @@
             "color": "#1D62B0"
           },
           "link_uri": {
-            "color": "#1E7272",
+            "color": "#1D6E6E",
             "font_style": "italic"
           },
           "markup.link.url": {
-            "color": "#1E7272",
+            "color": "#1D6E6E",
             "font_style": "italic"
           },
           "diff.plus": {

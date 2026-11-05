@@ -612,7 +612,7 @@
         "ghost_element.selected": "#C9DAE7",
         "ghost_element.disabled": "#00000000",
         "drop_target.background": "#0675D91B",
-        "drop_target.border": "#986216",
+        "drop_target.border": "#915D15",
         "text": "#3A342F",
         "text.muted": "#625C56",
         "text.placeholder": "#625C56",
@@ -704,7 +704,7 @@
         "vim.yank.background": "#D58F0347",
         "conflict": "#793974",
         "conflict.background": "#EC9D0028",
-        "conflict.border": "#986216",
+        "conflict.border": "#915D15",
         "created": "#2F6D34",
         "created.background": "#05C44E1D",
         "created.border": "#579766",
@@ -795,15 +795,15 @@
             "font_style": "italic"
           },
           "comment.doc": {
-            "color": "#746A5C",
+            "color": "#71675A",
             "font_style": "italic"
           },
           "comment.documentation": {
-            "color": "#746A5C",
+            "color": "#71675A",
             "font_style": "italic"
           },
           "string.doc": {
-            "color": "#746A5C",
+            "color": "#71675A",
             "font_style": "italic"
           },
           "keyword.jsdoc": {
@@ -833,23 +833,23 @@
             "color": "#6B5D27"
           },
           "string.escape": {
-            "color": "#986216",
+            "color": "#915D15",
             "font_weight": 700
           },
           "keyword.operator.regex": {
-            "color": "#986216",
+            "color": "#915D15",
             "font_weight": 700
           },
           "operator.regex": {
-            "color": "#986216",
+            "color": "#915D15",
             "font_weight": 700
           },
           "punctuation.bracket.regex": {
-            "color": "#986216",
+            "color": "#915D15",
             "font_weight": 700
           },
           "punctuation.delimiter.regex": {
-            "color": "#986216",
+            "color": "#915D15",
             "font_weight": 700
           },
           "number.quantifier.regex": {

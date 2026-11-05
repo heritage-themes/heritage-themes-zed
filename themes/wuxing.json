@@ -612,7 +612,7 @@
         "ghost_element.selected": "#D3DBEE",
         "ghost_element.disabled": "#00000000",
         "drop_target.background": "#749DFF2B",
-        "drop_target.border": "#936501",
+        "drop_target.border": "#8B5F01",
         "text": "#2B3040",
         "text.muted": "#605C4E",
         "text.placeholder": "#605C4E",
@@ -688,23 +688,23 @@
         "terminal.ansi.yellow": "#7A5200",
         "terminal.ansi.blue": "#2456B4",
         "terminal.ansi.magenta": "#7B3FA6",
-        "terminal.ansi.cyan": "#0A7480",
+        "terminal.ansi.cyan": "#0A727E",
         "terminal.ansi.bright_red": "#B0362B",
         "terminal.ansi.bright_green": "#2A7244",
         "terminal.ansi.bright_yellow": "#7A5200",
         "terminal.ansi.bright_blue": "#2456B4",
         "terminal.ansi.bright_magenta": "#7B3FA6",
-        "terminal.ansi.bright_cyan": "#0A7480",
+        "terminal.ansi.bright_cyan": "#0A727E",
         "terminal.ansi.dim_red": "#C36C5F",
         "terminal.ansi.dim_green": "#659670",
         "terminal.ansi.dim_yellow": "#9D7F41",
         "terminal.ansi.dim_blue": "#6182BF",
         "terminal.ansi.dim_magenta": "#9E72B5",
-        "terminal.ansi.dim_cyan": "#4F979A",
+        "terminal.ansi.dim_cyan": "#4F9699",
         "vim.yank.background": "#EEB50163",
         "conflict": "#7B3FA6",
         "conflict.background": "#DFA30121",
-        "conflict.border": "#936501",
+        "conflict.border": "#8B5F01",
         "created": "#2A7244",
         "created.background": "#03F0A415",
         "created.border": "#6AA672",
@@ -749,8 +749,8 @@
         ],
         "players": [
           {
-            "cursor": "#936501",
-            "background": "#936501",
+            "cursor": "#8B5F01",
+            "background": "#8B5F01",
             "selection": "#A6C0FF6F"
           },
           {
@@ -774,9 +774,9 @@
             "selection": "#7A52003D"
           },
           {
-            "cursor": "#0A7480",
-            "background": "#0A7480",
-            "selection": "#0A74803D"
+            "cursor": "#0A727E",
+            "background": "#0A727E",
+            "selection": "#0A727E3D"
           },
           {
             "cursor": "#B0362B",
@@ -795,15 +795,15 @@
             "font_style": "italic"
           },
           "comment.doc": {
-            "color": "#7D6845",
+            "color": "#796543",
             "font_style": "italic"
           },
           "comment.documentation": {
-            "color": "#7D6845",
+            "color": "#796543",
             "font_style": "italic"
           },
           "string.doc": {
-            "color": "#7D6845",
+            "color": "#796543",
             "font_style": "italic"
           },
           "keyword.jsdoc": {
@@ -833,23 +833,23 @@
             "color": "#2A7244"
           },
           "string.escape": {
-            "color": "#936501",
+            "color": "#8B5F01",
             "font_weight": 700
           },
           "keyword.operator.regex": {
-            "color": "#936501",
+            "color": "#8B5F01",
             "font_weight": 700
           },
           "operator.regex": {
-            "color": "#936501",
+            "color": "#8B5F01",
             "font_weight": 700
           },
           "punctuation.bracket.regex": {
-            "color": "#936501",
+            "color": "#8B5F01",
             "font_weight": 700
           },
           "punctuation.delimiter.regex": {
-            "color": "#936501",
+            "color": "#8B5F01",
             "font_weight": 700
           },
           "number.quantifier.regex": {
@@ -1061,13 +1061,13 @@
             "font_style": "italic"
           },
           "property": {
-            "color": "#0A7480"
+            "color": "#0A727E"
           },
           "variable.other.member": {
-            "color": "#0A7480"
+            "color": "#0A727E"
           },
           "attribute.jsx": {
-            "color": "#0A7480"
+            "color": "#0A727E"
           },
           "function": {
             "color": "#3A64B8"

@@ -612,7 +612,7 @@
         "ghost_element.selected": "#E5DDC0",
         "ghost_element.disabled": "#00000000",
         "drop_target.background": "#06111411",
-        "drop_target.border": "#8D6903",
+        "drop_target.border": "#876403",
         "text": "#383B38",
         "text.muted": "#5E5D57",
         "text.placeholder": "#5E5D57",
@@ -644,7 +644,7 @@
         "editor.highlighted_line.background": "#06111411",
         "editor.debugger_active_line.background": "#99C0FF52",
         "editor.line_number": "#ABA48E",
-        "editor.active_line_number": "#8A6400",
+        "editor.active_line_number": "#896300",
         "editor.hover_line_number": "#5E5D57",
         "editor.invisible": "#E6E0CF",
         "editor.wrap_guide": "#E6E0CF",
@@ -704,7 +704,7 @@
         "vim.yank.background": "#E7BB0066",
         "conflict": "#8E2A80",
         "conflict.background": "#D2A00238",
-        "conflict.border": "#8D6903",
+        "conflict.border": "#876403",
         "created": "#2F6B2F",
         "created.background": "#21AE011E",
         "created.border": "#5E9A50",
@@ -749,8 +749,8 @@
         ],
         "players": [
           {
-            "cursor": "#8A6400",
-            "background": "#8A6400",
+            "cursor": "#896300",
+            "background": "#896300",
             "selection": "#9175052B"
           },
           {
@@ -833,23 +833,23 @@
             "color": "#2A4F8E"
           },
           "string.escape": {
-            "color": "#8D6903",
+            "color": "#876403",
             "font_weight": 700
           },
           "keyword.operator.regex": {
-            "color": "#8D6903",
+            "color": "#876403",
             "font_weight": 700
           },
           "operator.regex": {
-            "color": "#8D6903",
+            "color": "#876403",
             "font_weight": 700
           },
           "punctuation.bracket.regex": {
-            "color": "#8D6903",
+            "color": "#876403",
             "font_weight": 700
           },
           "punctuation.delimiter.regex": {
-            "color": "#8D6903",
+            "color": "#876403",
             "font_weight": 700
           },
           "number.quantifier.regex": {
@@ -863,79 +863,79 @@
             "color": "#8E2438"
           },
           "boolean": {
-            "color": "#8A6400",
+            "color": "#896300",
             "font_weight": 700
           },
           "constant.builtin": {
-            "color": "#8A6400",
+            "color": "#896300",
             "font_weight": 700
           },
           "type.builtin": {
-            "color": "#8A6400",
+            "color": "#896300",
             "font_weight": 700
           },
           "type.qualifier": {
-            "color": "#8A6400",
+            "color": "#896300",
             "font_weight": 700
           },
           "keyword": {
-            "color": "#8A6400",
+            "color": "#896300",
             "font_weight": 700
           },
           "preproc": {
-            "color": "#8A6400",
+            "color": "#896300",
             "font_weight": 700
           },
           "include": {
-            "color": "#8A6400",
+            "color": "#896300",
             "font_weight": 700
           },
           "import": {
-            "color": "#8A6400",
+            "color": "#896300",
             "font_weight": 700
           },
           "storageclass": {
-            "color": "#8A6400",
+            "color": "#896300",
             "font_weight": 700
           },
           "tag": {
-            "color": "#8A6400",
+            "color": "#896300",
             "font_weight": 700
           },
           "selector": {
-            "color": "#8A6400",
+            "color": "#896300",
             "font_weight": 700
           },
           "selector.pseudo": {
-            "color": "#8A6400",
+            "color": "#896300",
             "font_weight": 700
           },
           "punctuation.markup": {
-            "color": "#8A6400",
+            "color": "#896300",
             "font_weight": 700
           },
           "punctuation.list_marker": {
-            "color": "#8A6400",
+            "color": "#896300",
             "font_weight": 700
           },
           "charset": {
-            "color": "#8A6400",
+            "color": "#896300",
             "font_weight": 700
           },
           "keyframes": {
-            "color": "#8A6400",
+            "color": "#896300",
             "font_weight": 700
           },
           "media": {
-            "color": "#8A6400",
+            "color": "#896300",
             "font_weight": 700
           },
           "nested": {
-            "color": "#8A6400",
+            "color": "#896300",
             "font_weight": 700
           },
           "supports": {
-            "color": "#8A6400",
+            "color": "#896300",
             "font_weight": 700
           },
           "constant": {
@@ -1043,11 +1043,11 @@
             "color": "#383B38"
           },
           "variable.special": {
-            "color": "#8A6400",
+            "color": "#896300",
             "font_style": "italic"
           },
           "variable.builtin": {
-            "color": "#8A6400",
+            "color": "#896300",
             "font_style": "italic"
           },
           "variable.parameter": {
@@ -1093,7 +1093,7 @@
             "color": "#16684C"
           },
           "label": {
-            "color": "#8A6400",
+            "color": "#896300",
             "font_weight": 700
           },
           "title": {

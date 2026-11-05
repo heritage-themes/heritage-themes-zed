@@ -631,7 +631,7 @@
         "ghost_element.selected": "#CFDFF0",
         "ghost_element.disabled": "#00000000",
         "drop_target.background": "#01247315",
-        "drop_target.border": "#8B6902",
+        "drop_target.border": "#866502",
         "text": "#46453F",
         "text.muted": "#5F5D57",
         "text.placeholder": "#5F5D57",
@@ -723,7 +723,7 @@
         "vim.yank.background": "#F4C60168",
         "conflict": "#8E2A90",
         "conflict.background": "#DBA7023D",
-        "conflict.border": "#8B6902",
+        "conflict.border": "#866502",
         "created": "#2D6B26",
         "created.background": "#51B90224",
         "created.border": "#5E9A50",
@@ -852,23 +852,23 @@
             "color": "#8A5E00"
           },
           "string.escape": {
-            "color": "#8B6902",
+            "color": "#866502",
             "font_weight": 700
           },
           "keyword.operator.regex": {
-            "color": "#8B6902",
+            "color": "#866502",
             "font_weight": 700
           },
           "operator.regex": {
-            "color": "#8B6902",
+            "color": "#866502",
             "font_weight": 700
           },
           "punctuation.bracket.regex": {
-            "color": "#8B6902",
+            "color": "#866502",
             "font_weight": 700
           },
           "punctuation.delimiter.regex": {
-            "color": "#8B6902",
+            "color": "#866502",
             "font_weight": 700
           },
           "number.quantifier.regex": {
@@ -1089,14 +1089,14 @@
             "color": "#B42A1E"
           },
           "function": {
-            "color": "#3A7A3C"
+            "color": "#39773B"
           },
           "function.definition": {
             "color": "#22742A",
             "font_weight": 700
           },
           "function.builtin": {
-            "color": "#3A7A3C",
+            "color": "#39773B",
             "font_style": "italic"
           },
           "function.decorator": {
@@ -1138,11 +1138,11 @@
             "color": "#1662A6"
           },
           "link_uri": {
-            "color": "#3A7A3C",
+            "color": "#39773B",
             "font_style": "italic"
           },
           "markup.link.url": {
-            "color": "#3A7A3C",
+            "color": "#39773B",
             "font_style": "italic"
           },
           "diff.plus": {

@@ -618,7 +618,7 @@
         "text.placeholder": "#645950",
         "text.disabled": "#ABA297",
         "text.accent": "#1F55A8",
-        "link_text.hover": "#A3520C",
+        "link_text.hover": "#A0500C",
         "icon": "#66594F",
         "icon.muted": "#645950",
         "icon.disabled": "#ABA297",
@@ -725,7 +725,7 @@
         "ignored.border": "#D2CBBE",
         "info": "#1F55A8",
         "info.background": "#A9CDFF59",
-        "info.border": "#A3520C",
+        "info.border": "#A0500C",
         "modified": "#1F55A8",
         "modified.background": "#A9CDFF59",
         "modified.border": "#4F7FC0",
@@ -784,9 +784,9 @@
             "selection": "#A3201E3D"
           },
           {
-            "cursor": "#A3520C",
-            "background": "#A3520C",
-            "selection": "#A3520C3D"
+            "cursor": "#A0500C",
+            "background": "#A0500C",
+            "selection": "#A0500C3D"
           }
         ],
         "syntax": {
@@ -979,32 +979,32 @@
             "color": "#5E544B"
           },
           "type": {
-            "color": "#A3520C"
+            "color": "#A0500C"
           },
           "enum": {
-            "color": "#A3520C"
+            "color": "#A0500C"
           },
           "type.class": {
-            "color": "#A3520C"
+            "color": "#A0500C"
           },
           "type.enum": {
-            "color": "#A3520C"
+            "color": "#A0500C"
           },
           "type.struct": {
-            "color": "#A3520C"
+            "color": "#A0500C"
           },
           "concept": {
-            "color": "#A3520C"
+            "color": "#A0500C"
           },
           "constructor": {
-            "color": "#A3520C"
+            "color": "#A0500C"
           },
           "type.interface": {
-            "color": "#A3520C",
+            "color": "#A0500C",
             "font_style": "italic"
           },
           "interface": {
-            "color": "#A3520C",
+            "color": "#A0500C",
             "font_style": "italic"
           },
           "type.parameter": {
@@ -1113,10 +1113,10 @@
             "font_weight": 700
           },
           "link_text": {
-            "color": "#A3520C"
+            "color": "#A0500C"
           },
           "markup.link": {
-            "color": "#A3520C"
+            "color": "#A0500C"
           },
           "link_uri": {
             "color": "#2A2420",

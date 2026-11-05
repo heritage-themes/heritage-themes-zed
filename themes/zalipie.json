@@ -612,7 +612,7 @@
         "ghost_element.selected": "#D2DCF0",
         "ghost_element.disabled": "#00000000",
         "drop_target.background": "#00102A13",
-        "drop_target.border": "#8A6A00",
+        "drop_target.border": "#866700",
         "text": "#242220",
         "text.muted": "#615F5A",
         "text.placeholder": "#615F5A",
@@ -704,7 +704,7 @@
         "vim.yank.background": "#EDBD026F",
         "conflict": "#8E2A90",
         "conflict.background": "#E3A80343",
-        "conflict.border": "#8A6A00",
+        "conflict.border": "#866700",
         "created": "#2D6B26",
         "created.background": "#72B7002A",
         "created.border": "#5E9A50",
@@ -833,23 +833,23 @@
             "color": "#2E6E1E"
           },
           "string.escape": {
-            "color": "#8A6A00",
+            "color": "#866700",
             "font_weight": 700
           },
           "keyword.operator.regex": {
-            "color": "#8A6A00",
+            "color": "#866700",
             "font_weight": 700
           },
           "operator.regex": {
-            "color": "#8A6A00",
+            "color": "#866700",
             "font_weight": 700
           },
           "punctuation.bracket.regex": {
-            "color": "#8A6A00",
+            "color": "#866700",
             "font_weight": 700
           },
           "punctuation.delimiter.regex": {
-            "color": "#8A6A00",
+            "color": "#866700",
             "font_weight": 700
           },
           "number.quantifier.regex": {

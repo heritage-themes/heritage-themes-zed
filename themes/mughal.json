@@ -612,7 +612,7 @@
         "ghost_element.selected": "#D3D9F2",
         "ghost_element.disabled": "#00000000",
         "drop_target.background": "#0518D614",
-        "drop_target.border": "#906603",
+        "drop_target.border": "#896103",
         "text": "#221F2B",
         "text.muted": "#5F5666",
         "text.placeholder": "#5F5666",
@@ -704,7 +704,7 @@
         "vim.yank.background": "#E5AC0064",
         "conflict": "#992D82",
         "conflict.background": "#C5940329",
-        "conflict.border": "#906603",
+        "conflict.border": "#896103",
         "created": "#1E6E55",
         "created.background": "#01B8681B",
         "created.border": "#5E9A5A",
@@ -833,23 +833,23 @@
             "color": "#1E6E55"
           },
           "string.escape": {
-            "color": "#906603",
+            "color": "#896103",
             "font_weight": 700
           },
           "keyword.operator.regex": {
-            "color": "#906603",
+            "color": "#896103",
             "font_weight": 700
           },
           "operator.regex": {
-            "color": "#906603",
+            "color": "#896103",
             "font_weight": 700
           },
           "punctuation.bracket.regex": {
-            "color": "#906603",
+            "color": "#896103",
             "font_weight": 700
           },
           "punctuation.delimiter.regex": {
-            "color": "#906603",
+            "color": "#896103",
             "font_weight": 700
           },
           "number.quantifier.regex": {
@@ -1008,14 +1008,14 @@
             "font_style": "italic"
           },
           "type.parameter": {
-            "color": "#3E7A1E",
+            "color": "#3C751D",
             "font_weight": 700
           },
           "type.unit": {
             "color": "#1E6E55"
           },
           "lifetime": {
-            "color": "#3E7A1E",
+            "color": "#3C751D",
             "font_style": "italic"
           },
           "namespace": {
@@ -1093,7 +1093,7 @@
             "color": "#136A8F"
           },
           "label": {
-            "color": "#8A6400",
+            "color": "#886200",
             "font_weight": 700
           },
           "title": {

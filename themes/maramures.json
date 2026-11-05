@@ -228,15 +228,15 @@
             "font_style": "italic"
           },
           "comment.doc": {
-            "color": "#898079",
+            "color": "#89817A",
             "font_style": "italic"
           },
           "comment.documentation": {
-            "color": "#898079",
+            "color": "#89817A",
             "font_style": "italic"
           },
           "string.doc": {
-            "color": "#898079",
+            "color": "#89817A",
             "font_style": "italic"
           },
           "keyword.jsdoc": {

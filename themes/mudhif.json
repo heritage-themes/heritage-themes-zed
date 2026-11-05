@@ -228,15 +228,15 @@
             "font_style": "italic"
           },
           "comment.doc": {
-            "color": "#877D68",
+            "color": "#8C816C",
             "font_style": "italic"
           },
           "comment.documentation": {
-            "color": "#877D68",
+            "color": "#8C816C",
             "font_style": "italic"
           },
           "string.doc": {
-            "color": "#877D68",
+            "color": "#8C816C",
             "font_style": "italic"
           },
           "keyword.jsdoc": {
@@ -814,15 +814,15 @@
             "font_style": "italic"
           },
           "comment.doc": {
-            "color": "#72684E",
+            "color": "#70664D",
             "font_style": "italic"
           },
           "comment.documentation": {
-            "color": "#72684E",
+            "color": "#70664D",
             "font_style": "italic"
           },
           "string.doc": {
-            "color": "#72684E",
+            "color": "#70664D",
             "font_style": "italic"
           },
           "keyword.jsdoc": {
@@ -872,14 +872,14 @@
             "font_weight": 700
           },
           "number.quantifier.regex": {
-            "color": "#B0461A",
+            "color": "#AF451A",
             "font_weight": 700
           },
           "number": {
-            "color": "#B0461A"
+            "color": "#AF451A"
           },
           "float": {
-            "color": "#B0461A"
+            "color": "#AF451A"
           },
           "boolean": {
             "color": "#7A5600",
@@ -958,27 +958,27 @@
             "font_weight": 700
           },
           "constant": {
-            "color": "#B0461A",
+            "color": "#AF451A",
             "font_weight": 700,
             "font_style": "italic"
           },
           "variant": {
-            "color": "#B0461A",
+            "color": "#AF451A",
             "font_weight": 700,
             "font_style": "italic"
           },
           "enum.member": {
-            "color": "#B0461A",
+            "color": "#AF451A",
             "font_weight": 700,
             "font_style": "italic"
           },
           "string.special.symbol": {
-            "color": "#B0461A",
+            "color": "#AF451A",
             "font_weight": 700,
             "font_style": "italic"
           },
           "type.enum.member": {
-            "color": "#B0461A",
+            "color": "#AF451A",
             "font_weight": 700,
             "font_style": "italic"
           },
@@ -1112,7 +1112,7 @@
             "color": "#6E6040"
           },
           "label": {
-            "color": "#B0461A",
+            "color": "#AF451A",
             "font_weight": 700
           },
           "title": {

@@ -228,15 +228,15 @@
             "font_style": "italic"
           },
           "comment.doc": {
-            "color": "#688499",
+            "color": "#69859A",
             "font_style": "italic"
           },
           "comment.documentation": {
-            "color": "#688499",
+            "color": "#69859A",
             "font_style": "italic"
           },
           "string.doc": {
-            "color": "#688499",
+            "color": "#69859A",
             "font_style": "italic"
           },
           "keyword.jsdoc": {
@@ -680,7 +680,7 @@
         "terminal.ansi.black": "#97A7B3",
         "terminal.ansi.bright_black": "#4B5E73",
         "terminal.ansi.dim_black": "#ADBCC6",
-        "terminal.ansi.white": "#596B7D",
+        "terminal.ansi.white": "#596B7C",
         "terminal.ansi.bright_white": "#213651",
         "terminal.ansi.dim_white": "#4B5E73",
         "terminal.ansi.red": "#AC3031",
@@ -745,7 +745,7 @@
         "warning.background": "#FFD18675",
         "warning.border": "#955E00",
         "accents": [
-          "#596B7D"
+          "#596B7C"
         ],
         "players": [
           {
@@ -795,15 +795,15 @@
             "font_style": "italic"
           },
           "comment.doc": {
-            "color": "#547084",
+            "color": "#516C80",
             "font_style": "italic"
           },
           "comment.documentation": {
-            "color": "#547084",
+            "color": "#516C80",
             "font_style": "italic"
           },
           "string.doc": {
-            "color": "#547084",
+            "color": "#516C80",
             "font_style": "italic"
           },
           "keyword.jsdoc": {
@@ -945,19 +945,19 @@
             "font_style": "italic"
           },
           "operator": {
-            "color": "#596B7D"
+            "color": "#596B7C"
           },
           "punctuation": {
-            "color": "#596B7D"
+            "color": "#596B7C"
           },
           "punctuation.bracket": {
-            "color": "#596B7D"
+            "color": "#596B7C"
           },
           "punctuation.delimiter": {
-            "color": "#596B7D"
+            "color": "#596B7C"
           },
           "punctuation.special": {
-            "color": "#596B7D"
+            "color": "#596B7C"
           },
           "type": {
             "color": "#111F37"

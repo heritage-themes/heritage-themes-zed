@@ -612,7 +612,7 @@
         "ghost_element.selected": "#D2DCF2",
         "ghost_element.disabled": "#00000000",
         "drop_target.background": "#03197515",
-        "drop_target.border": "#946000",
+        "drop_target.border": "#935F00",
         "text": "#403E39",
         "text.muted": "#615E57",
         "text.placeholder": "#615E57",
@@ -644,7 +644,7 @@
         "editor.highlighted_line.background": "#03197515",
         "editor.debugger_active_line.background": "#0765EE20",
         "editor.line_number": "#A8A59C",
-        "editor.active_line_number": "#0E7A4E",
+        "editor.active_line_number": "#0E794E",
         "editor.hover_line_number": "#615E57",
         "editor.invisible": "#E5E3DB",
         "editor.wrap_guide": "#E5E3DB",
@@ -704,7 +704,7 @@
         "vim.yank.background": "#F1C30069",
         "conflict": "#8E2A90",
         "conflict.background": "#D6A3033F",
-        "conflict.border": "#946000",
+        "conflict.border": "#935F00",
         "created": "#2D6B26",
         "created.background": "#4EB10326",
         "created.border": "#5E9A50",
@@ -833,23 +833,23 @@
             "color": "#B3201F"
           },
           "string.escape": {
-            "color": "#946000",
+            "color": "#935F00",
             "font_weight": 700
           },
           "keyword.operator.regex": {
-            "color": "#946000",
+            "color": "#935F00",
             "font_weight": 700
           },
           "operator.regex": {
-            "color": "#946000",
+            "color": "#935F00",
             "font_weight": 700
           },
           "punctuation.bracket.regex": {
-            "color": "#946000",
+            "color": "#935F00",
             "font_weight": 700
           },
           "punctuation.delimiter.regex": {
-            "color": "#946000",
+            "color": "#935F00",
             "font_weight": 700
           },
           "number.quantifier.regex": {
@@ -863,79 +863,79 @@
             "color": "#0B6E9C"
           },
           "boolean": {
-            "color": "#0E7A4E",
+            "color": "#0E794E",
             "font_weight": 700
           },
           "constant.builtin": {
-            "color": "#0E7A4E",
+            "color": "#0E794E",
             "font_weight": 700
           },
           "type.builtin": {
-            "color": "#0E7A4E",
+            "color": "#0E794E",
             "font_weight": 700
           },
           "type.qualifier": {
-            "color": "#0E7A4E",
+            "color": "#0E794E",
             "font_weight": 700
           },
           "keyword": {
-            "color": "#0E7A4E",
+            "color": "#0E794E",
             "font_weight": 700
           },
           "preproc": {
-            "color": "#0E7A4E",
+            "color": "#0E794E",
             "font_weight": 700
           },
           "include": {
-            "color": "#0E7A4E",
+            "color": "#0E794E",
             "font_weight": 700
           },
           "import": {
-            "color": "#0E7A4E",
+            "color": "#0E794E",
             "font_weight": 700
           },
           "storageclass": {
-            "color": "#0E7A4E",
+            "color": "#0E794E",
             "font_weight": 700
           },
           "tag": {
-            "color": "#0E7A4E",
+            "color": "#0E794E",
             "font_weight": 700
           },
           "selector": {
-            "color": "#0E7A4E",
+            "color": "#0E794E",
             "font_weight": 700
           },
           "selector.pseudo": {
-            "color": "#0E7A4E",
+            "color": "#0E794E",
             "font_weight": 700
           },
           "punctuation.markup": {
-            "color": "#0E7A4E",
+            "color": "#0E794E",
             "font_weight": 700
           },
           "punctuation.list_marker": {
-            "color": "#0E7A4E",
+            "color": "#0E794E",
             "font_weight": 700
           },
           "charset": {
-            "color": "#0E7A4E",
+            "color": "#0E794E",
             "font_weight": 700
           },
           "keyframes": {
-            "color": "#0E7A4E",
+            "color": "#0E794E",
             "font_weight": 700
           },
           "media": {
-            "color": "#0E7A4E",
+            "color": "#0E794E",
             "font_weight": 700
           },
           "nested": {
-            "color": "#0E7A4E",
+            "color": "#0E794E",
             "font_weight": 700
           },
           "supports": {
-            "color": "#0E7A4E",
+            "color": "#0E794E",
             "font_weight": 700
           },
           "constant": {
@@ -979,32 +979,32 @@
             "color": "#5E5C55"
           },
           "type": {
-            "color": "#946000"
+            "color": "#935F00"
           },
           "enum": {
-            "color": "#946000"
+            "color": "#935F00"
           },
           "type.class": {
-            "color": "#946000"
+            "color": "#935F00"
           },
           "type.enum": {
-            "color": "#946000"
+            "color": "#935F00"
           },
           "type.struct": {
-            "color": "#946000"
+            "color": "#935F00"
           },
           "concept": {
-            "color": "#946000"
+            "color": "#935F00"
           },
           "constructor": {
-            "color": "#946000"
+            "color": "#935F00"
           },
           "type.interface": {
-            "color": "#946000",
+            "color": "#935F00",
             "font_style": "italic"
           },
           "interface": {
-            "color": "#946000",
+            "color": "#935F00",
             "font_style": "italic"
           },
           "type.parameter": {
@@ -1043,11 +1043,11 @@
             "color": "#403E39"
           },
           "variable.special": {
-            "color": "#0E7A4E",
+            "color": "#0E794E",
             "font_style": "italic"
           },
           "variable.builtin": {
-            "color": "#0E7A4E",
+            "color": "#0E794E",
             "font_style": "italic"
           },
           "variable.parameter": {
@@ -1093,7 +1093,7 @@
             "color": "#0B6E9C"
           },
           "label": {
-            "color": "#0E7A4E",
+            "color": "#0E794E",
             "font_weight": 700
           },
           "title": {

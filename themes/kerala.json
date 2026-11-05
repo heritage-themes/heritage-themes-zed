@@ -612,7 +612,7 @@
         "ghost_element.selected": "#D4E8DA",
         "ghost_element.disabled": "#00000000",
         "drop_target.background": "#054B3E18",
-        "drop_target.border": "#8B6C05",
+        "drop_target.border": "#856705",
         "text": "#1F2420",
         "text.muted": "#5A615A",
         "text.placeholder": "#5A615A",
@@ -644,7 +644,7 @@
         "editor.highlighted_line.background": "#054B3E18",
         "editor.debugger_active_line.background": "#C2DCFF86",
         "editor.line_number": "#AAA58D",
-        "editor.active_line_number": "#A07000",
+        "editor.active_line_number": "#8E6300",
         "editor.hover_line_number": "#5A615A",
         "editor.invisible": "#EAE3CE",
         "editor.wrap_guide": "#EAE3CE",
@@ -684,28 +684,28 @@
         "terminal.ansi.bright_white": "#1F2420",
         "terminal.ansi.dim_white": "#5A615A",
         "terminal.ansi.red": "#B0203A",
-        "terminal.ansi.green": "#3A7A1E",
+        "terminal.ansi.green": "#3A791E",
         "terminal.ansi.yellow": "#7A5A00",
         "terminal.ansi.blue": "#1060A8",
         "terminal.ansi.magenta": "#9C3A8A",
-        "terminal.ansi.cyan": "#007A78",
+        "terminal.ansi.cyan": "#007876",
         "terminal.ansi.bright_red": "#B0203A",
-        "terminal.ansi.bright_green": "#3A7A1E",
+        "terminal.ansi.bright_green": "#3A791E",
         "terminal.ansi.bright_yellow": "#7A5A00",
         "terminal.ansi.bright_blue": "#1060A8",
         "terminal.ansi.bright_magenta": "#9C3A8A",
-        "terminal.ansi.bright_cyan": "#007A78",
+        "terminal.ansi.bright_cyan": "#007876",
         "terminal.ansi.dim_red": "#C45E6B",
-        "terminal.ansi.dim_green": "#729D58",
+        "terminal.ansi.dim_green": "#729C58",
         "terminal.ansi.dim_yellow": "#9F8743",
         "terminal.ansi.dim_blue": "#548BB8",
         "terminal.ansi.dim_magenta": "#B670A3",
-        "terminal.ansi.dim_cyan": "#499D97",
+        "terminal.ansi.dim_cyan": "#499C95",
         "vim.yank.background": "#EFBA0063",
         "conflict": "#9C3A8A",
         "conflict.background": "#E0A20328",
-        "conflict.border": "#8B6C05",
-        "created": "#3A7A1E",
+        "conflict.border": "#856705",
+        "created": "#3A791E",
         "created.background": "#04C45F1A",
         "created.border": "#5FA060",
         "deleted": "#B0203A",
@@ -735,7 +735,7 @@
         "renamed": "#1060A8",
         "renamed.background": "#C2DCFF86",
         "renamed.border": "#5A8CC8",
-        "success": "#3A7A1E",
+        "success": "#3A791E",
         "success.background": "#04C45F1A",
         "success.border": "#5FA060",
         "unreachable": "#5A615A",
@@ -764,9 +764,9 @@
             "selection": "#9C3A8A3D"
           },
           {
-            "cursor": "#3A7A1E",
-            "background": "#3A7A1E",
-            "selection": "#3A7A1E3D"
+            "cursor": "#3A791E",
+            "background": "#3A791E",
+            "selection": "#3A791E3D"
           },
           {
             "cursor": "#7A5A00",
@@ -774,9 +774,9 @@
             "selection": "#7A5A003D"
           },
           {
-            "cursor": "#007A78",
-            "background": "#007A78",
-            "selection": "#007A783D"
+            "cursor": "#007876",
+            "background": "#007876",
+            "selection": "#0078763D"
           },
           {
             "cursor": "#B0203A",
@@ -833,23 +833,23 @@
             "color": "#745903"
           },
           "string.escape": {
-            "color": "#8B6C05",
+            "color": "#856705",
             "font_weight": 700
           },
           "keyword.operator.regex": {
-            "color": "#8B6C05",
+            "color": "#856705",
             "font_weight": 700
           },
           "operator.regex": {
-            "color": "#8B6C05",
+            "color": "#856705",
             "font_weight": 700
           },
           "punctuation.bracket.regex": {
-            "color": "#8B6C05",
+            "color": "#856705",
             "font_weight": 700
           },
           "punctuation.delimiter.regex": {
-            "color": "#8B6C05",
+            "color": "#856705",
             "font_weight": 700
           },
           "number.quantifier.regex": {
@@ -1008,14 +1008,14 @@
             "font_style": "italic"
           },
           "type.parameter": {
-            "color": "#79702E",
+            "color": "#756C2D",
             "font_weight": 700
           },
           "type.unit": {
             "color": "#745903"
           },
           "lifetime": {
-            "color": "#79702E",
+            "color": "#756C2D",
             "font_style": "italic"
           },
           "namespace": {
@@ -1127,7 +1127,7 @@
             "font_style": "italic"
           },
           "diff.plus": {
-            "color": "#3A7A1E"
+            "color": "#3A791E"
           },
           "diff.minus": {
             "color": "#B0203A"
