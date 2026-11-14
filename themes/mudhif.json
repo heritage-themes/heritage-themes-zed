@@ -315,10 +315,6 @@
             "color": "#E2B44A",
             "font_weight": 700
           },
-          "preproc": {
-            "color": "#E2B44A",
-            "font_weight": 700
-          },
           "include": {
             "color": "#E2B44A",
             "font_weight": 700
@@ -370,6 +366,12 @@
           "supports": {
             "color": "#E2B44A",
             "font_weight": 700
+          },
+          "preproc": {
+            "color": "#DE8AD0"
+          },
+          "keyword.preproc": {
+            "color": "#DE8AD0"
           },
           "constant": {
             "color": "#EC8250",
@@ -901,10 +903,6 @@
             "color": "#7A5600",
             "font_weight": 700
           },
-          "preproc": {
-            "color": "#7A5600",
-            "font_weight": 700
-          },
           "include": {
             "color": "#7A5600",
             "font_weight": 700
@@ -956,6 +954,12 @@
           "supports": {
             "color": "#7A5600",
             "font_weight": 700
+          },
+          "preproc": {
+            "color": "#8E2A90"
+          },
+          "keyword.preproc": {
+            "color": "#8E2A90"
           },
           "constant": {
             "color": "#AF451A",

@@ -310,9 +310,6 @@
           "keyword": {
             "color": "#F6C945"
           },
-          "preproc": {
-            "color": "#F6C945"
-          },
           "include": {
             "color": "#F6C945"
           },
@@ -351,6 +348,12 @@
           },
           "supports": {
             "color": "#F6C945"
+          },
+          "preproc": {
+            "color": "#BDE485"
+          },
+          "keyword.preproc": {
+            "color": "#BDE485"
           },
           "constant": {
             "color": "#A9BDFF",
@@ -877,9 +880,6 @@
           "keyword": {
             "color": "#5FDDD2"
           },
-          "preproc": {
-            "color": "#5FDDD2"
-          },
           "include": {
             "color": "#5FDDD2"
           },
@@ -918,6 +918,12 @@
           },
           "supports": {
             "color": "#5FDDD2"
+          },
+          "preproc": {
+            "color": "#CAE07F"
+          },
+          "keyword.preproc": {
+            "color": "#CAE07F"
           },
           "constant": {
             "color": "#C9B2FF",
@@ -1444,9 +1450,6 @@
           "keyword": {
             "color": "#FFA48C"
           },
-          "preproc": {
-            "color": "#FFA48C"
-          },
           "include": {
             "color": "#FFA48C"
           },
@@ -1485,6 +1488,12 @@
           },
           "supports": {
             "color": "#FFA48C"
+          },
+          "preproc": {
+            "color": "#B4B1D8"
+          },
+          "keyword.preproc": {
+            "color": "#B4B1D8"
           },
           "constant": {
             "color": "#C4F2B8",

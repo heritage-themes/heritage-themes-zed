@@ -310,9 +310,6 @@
           "keyword": {
             "color": "#F4D660"
           },
-          "preproc": {
-            "color": "#F4D660"
-          },
           "include": {
             "color": "#F4D660"
           },
@@ -351,6 +348,12 @@
           },
           "supports": {
             "color": "#F4D660"
+          },
+          "preproc": {
+            "color": "#7CFFDB"
+          },
+          "keyword.preproc": {
+            "color": "#7CFFDB"
           },
           "constant": {
             "color": "#B4E7FC",
@@ -877,9 +880,6 @@
           "keyword": {
             "color": "#97ED9A"
           },
-          "preproc": {
-            "color": "#97ED9A"
-          },
           "include": {
             "color": "#97ED9A"
           },
@@ -918,6 +918,12 @@
           },
           "supports": {
             "color": "#97ED9A"
+          },
+          "preproc": {
+            "color": "#B2BF7E"
+          },
+          "keyword.preproc": {
+            "color": "#B2BF7E"
           },
           "constant": {
             "color": "#58D8AE",
