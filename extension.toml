@@ -1,6 +1,6 @@
 id = "heritage-theme"
 name = "Heritage Themes"
-version = "1.11.1"
+version = "1.24.0"
 schema_version = 1
 authors = ["Heritage Themes"]
 description = "Colour themes drawn from the colour traditions of different cultures."
