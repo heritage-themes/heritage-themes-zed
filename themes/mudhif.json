@@ -110,9 +110,9 @@
         "terminal.foreground": "#C2B596",
         "terminal.bright_foreground": "#C2B596",
         "terminal.dim_foreground": "#978C72",
-        "terminal.ansi.black": "#554D3E",
+        "terminal.ansi.black": "#15120D",
         "terminal.ansi.bright_black": "#978C72",
-        "terminal.ansi.dim_black": "#423B2F",
+        "terminal.ansi.dim_black": "#15120D",
         "terminal.ansi.white": "#A09478",
         "terminal.ansi.bright_white": "#C2B596",
         "terminal.ansi.dim_white": "#978C72",
@@ -698,35 +698,35 @@
         "terminal.foreground": "#463C28",
         "terminal.bright_foreground": "#463C28",
         "terminal.dim_foreground": "#665A40",
-        "terminal.ansi.black": "#ADA180",
+        "terminal.ansi.black": "#F0E9D5",
         "terminal.ansi.bright_black": "#665A40",
-        "terminal.ansi.dim_black": "#C1B79A",
+        "terminal.ansi.dim_black": "#F0E9D5",
         "terminal.ansi.white": "#665C44",
         "terminal.ansi.bright_white": "#463C28",
         "terminal.ansi.dim_white": "#665A40",
         "terminal.ansi.red": "#A3201E",
-        "terminal.ansi.green": "#2D6B26",
-        "terminal.ansi.yellow": "#7A5800",
+        "terminal.ansi.green": "#2B6925",
+        "terminal.ansi.yellow": "#785600",
         "terminal.ansi.blue": "#1F55A8",
         "terminal.ansi.magenta": "#8E2A90",
-        "terminal.ansi.cyan": "#0A6A78",
+        "terminal.ansi.cyan": "#006674",
         "terminal.ansi.bright_red": "#A3201E",
-        "terminal.ansi.bright_green": "#2D6B26",
-        "terminal.ansi.bright_yellow": "#7A5800",
+        "terminal.ansi.bright_green": "#2B6925",
+        "terminal.ansi.bright_yellow": "#785600",
         "terminal.ansi.bright_blue": "#1F55A8",
         "terminal.ansi.bright_magenta": "#8E2A90",
-        "terminal.ansi.bright_cyan": "#0A6A78",
+        "terminal.ansi.bright_cyan": "#006674",
         "terminal.ansi.dim_red": "#BA5C55",
-        "terminal.ansi.dim_green": "#68915A",
-        "terminal.ansi.dim_yellow": "#9D8440",
+        "terminal.ansi.dim_green": "#668F5A",
+        "terminal.ansi.dim_yellow": "#9C8240",
         "terminal.ansi.dim_blue": "#5E81B6",
         "terminal.ansi.dim_magenta": "#AB63A5",
-        "terminal.ansi.dim_cyan": "#4F9094",
+        "terminal.ansi.dim_cyan": "#488D91",
         "vim.yank.background": "#E3A90259",
         "conflict": "#8E2A90",
         "conflict.background": "#DBA7033D",
         "conflict.border": "#7A5600",
-        "created": "#2D6B26",
+        "created": "#2B6925",
         "created.background": "#28BB0619",
         "created.border": "#5E9A50",
         "deleted": "#A3201E",
@@ -756,13 +756,13 @@
         "renamed": "#1F55A8",
         "renamed.background": "#699DFF2C",
         "renamed.border": "#4F7FC0",
-        "success": "#2D6B26",
+        "success": "#2B6925",
         "success.background": "#28BB0619",
         "success.border": "#5E9A50",
         "unreachable": "#665A40",
         "unreachable.background": "#00000000",
         "unreachable.border": "#D6CBAE",
-        "warning": "#7A5800",
+        "warning": "#785600",
         "warning.background": "#DBA7033D",
         "warning.border": "#905800",
         "accents": [
@@ -785,19 +785,19 @@
             "selection": "#8E2A903D"
           },
           {
-            "cursor": "#2D6B26",
-            "background": "#2D6B26",
-            "selection": "#2D6B263D"
+            "cursor": "#2B6925",
+            "background": "#2B6925",
+            "selection": "#2B69253D"
           },
           {
-            "cursor": "#7A5800",
-            "background": "#7A5800",
-            "selection": "#7A58003D"
+            "cursor": "#785600",
+            "background": "#785600",
+            "selection": "#7856003D"
           },
           {
-            "cursor": "#0A6A78",
-            "background": "#0A6A78",
-            "selection": "#0A6A783D"
+            "cursor": "#006674",
+            "background": "#006674",
+            "selection": "#0066743D"
           },
           {
             "cursor": "#A3201E",
@@ -1150,7 +1150,7 @@
             "font_style": "italic"
           },
           "diff.plus": {
-            "color": "#2D6B26"
+            "color": "#2B6925"
           },
           "diff.minus": {
             "color": "#A3201E"
@@ -1174,7 +1174,7 @@
             "color": "#A3201E"
           },
           "warning": {
-            "color": "#7A5800"
+            "color": "#785600"
           }
         }
       }

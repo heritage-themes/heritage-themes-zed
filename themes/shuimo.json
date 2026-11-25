@@ -110,25 +110,25 @@
         "terminal.foreground": "#C8C6C0",
         "terminal.bright_foreground": "#C8C6C0",
         "terminal.dim_foreground": "#918F89",
-        "terminal.ansi.black": "#55544F",
+        "terminal.ansi.black": "#151514",
         "terminal.ansi.bright_black": "#918F89",
-        "terminal.ansi.dim_black": "#42413D",
+        "terminal.ansi.dim_black": "#151514",
         "terminal.ansi.white": "#8E8C86",
         "terminal.ansi.bright_white": "#C8C6C0",
         "terminal.ansi.dim_white": "#918F89",
-        "terminal.ansi.red": "#D75E51",
+        "terminal.ansi.red": "#F07465",
         "terminal.ansi.green": "#8AA886",
         "terminal.ansi.yellow": "#C9A24E",
         "terminal.ansi.blue": "#8FAAC2",
         "terminal.ansi.magenta": "#B491B0",
         "terminal.ansi.cyan": "#71ABAA",
-        "terminal.ansi.bright_red": "#D75E51",
+        "terminal.ansi.bright_red": "#F07465",
         "terminal.ansi.bright_green": "#8AA886",
         "terminal.ansi.bright_yellow": "#C9A24E",
         "terminal.ansi.bright_blue": "#8FAAC2",
         "terminal.ansi.bright_magenta": "#B491B0",
         "terminal.ansi.bright_cyan": "#71ABAA",
-        "terminal.ansi.dim_red": "#9D483F",
+        "terminal.ansi.dim_red": "#AE584D",
         "terminal.ansi.dim_green": "#677C64",
         "terminal.ansi.dim_yellow": "#93783D",
         "terminal.ansi.dim_blue": "#6A7D8E",
@@ -141,10 +141,10 @@
         "created": "#8AA886",
         "created.background": "#01590023",
         "created.border": "#5F8A5A",
-        "deleted": "#D75E51",
+        "deleted": "#F07465",
         "deleted.background": "#FC302314",
         "deleted.border": "#9A4A40",
-        "error": "#D75E51",
+        "error": "#F07465",
         "error.background": "#FC302314",
         "error.border": "#E8584E",
         "hidden": "#918F89",
@@ -212,9 +212,9 @@
             "selection": "#71ABAA3D"
           },
           {
-            "cursor": "#D75E51",
-            "background": "#D75E51",
-            "selection": "#D75E513D"
+            "cursor": "#F07465",
+            "background": "#F07465",
+            "selection": "#F074653D"
           },
           {
             "cursor": "#8FAAC2",
@@ -547,7 +547,7 @@
             "color": "#8AA886"
           },
           "diff.minus": {
-            "color": "#D75E51"
+            "color": "#F07465"
           },
           "diff.delta": {
             "color": "#8FAAC2"
@@ -565,7 +565,7 @@
             "font_style": "italic"
           },
           "error": {
-            "color": "#D75E51"
+            "color": "#F07465"
           },
           "warning": {
             "color": "#C9A24E"
@@ -680,27 +680,27 @@
         "terminal.foreground": "#2A2A28",
         "terminal.bright_foreground": "#2A2A28",
         "terminal.dim_foreground": "#615F59",
-        "terminal.ansi.black": "#ADABA4",
+        "terminal.ansi.black": "#F0EFEA",
         "terminal.ansi.bright_black": "#615F59",
-        "terminal.ansi.dim_black": "#C1BFB9",
+        "terminal.ansi.dim_black": "#F0EFEA",
         "terminal.ansi.white": "#6B6963",
         "terminal.ansi.bright_white": "#2A2A28",
         "terminal.ansi.dim_white": "#615F59",
-        "terminal.ansi.red": "#B03A2E",
+        "terminal.ansi.red": "#AF392D",
         "terminal.ansi.green": "#476444",
-        "terminal.ansi.yellow": "#7B5F1B",
+        "terminal.ansi.yellow": "#7A5E1A",
         "terminal.ansi.blue": "#3D5F7A",
         "terminal.ansi.magenta": "#6E4E6B",
         "terminal.ansi.cyan": "#2C6565",
-        "terminal.ansi.bright_red": "#B03A2E",
+        "terminal.ansi.bright_red": "#AF392D",
         "terminal.ansi.bright_green": "#476444",
-        "terminal.ansi.bright_yellow": "#7B5F1B",
+        "terminal.ansi.bright_yellow": "#7A5E1A",
         "terminal.ansi.bright_blue": "#3D5F7A",
         "terminal.ansi.bright_magenta": "#6E4E6B",
         "terminal.ansi.bright_cyan": "#2C6565",
-        "terminal.ansi.dim_red": "#C37066",
+        "terminal.ansi.dim_red": "#C27066",
         "terminal.ansi.dim_green": "#7A8E76",
-        "terminal.ansi.dim_yellow": "#9E8A59",
+        "terminal.ansi.dim_yellow": "#9D8A58",
         "terminal.ansi.dim_blue": "#738A9C",
         "terminal.ansi.dim_magenta": "#957E91",
         "terminal.ansi.dim_cyan": "#678E8D",
@@ -711,10 +711,10 @@
         "created": "#476444",
         "created.background": "#02950B13",
         "created.border": "#6E9A6A",
-        "deleted": "#B03A2E",
+        "deleted": "#AF392D",
         "deleted.background": "#FFD4D074",
         "deleted.border": "#B8655A",
-        "error": "#B03A2E",
+        "error": "#AF392D",
         "error.background": "#FFD4D074",
         "error.border": "#C42B2B",
         "hidden": "#615F59",
@@ -744,7 +744,7 @@
         "unreachable": "#615F59",
         "unreachable.background": "#00000000",
         "unreachable.border": "#D8D6CF",
-        "warning": "#7B5F1B",
+        "warning": "#7A5E1A",
         "warning.background": "#D098022A",
         "warning.border": "#A86B00",
         "accents": [
@@ -772,9 +772,9 @@
             "selection": "#4764443D"
           },
           {
-            "cursor": "#7B5F1B",
-            "background": "#7B5F1B",
-            "selection": "#7B5F1B3D"
+            "cursor": "#7A5E1A",
+            "background": "#7A5E1A",
+            "selection": "#7A5E1A3D"
           },
           {
             "cursor": "#2C6565",
@@ -782,9 +782,9 @@
             "selection": "#2C65653D"
           },
           {
-            "cursor": "#B03A2E",
-            "background": "#B03A2E",
-            "selection": "#B03A2E3D"
+            "cursor": "#AF392D",
+            "background": "#AF392D",
+            "selection": "#AF392D3D"
           },
           {
             "cursor": "#3D5F7A",
@@ -1117,7 +1117,7 @@
             "color": "#476444"
           },
           "diff.minus": {
-            "color": "#B03A2E"
+            "color": "#AF392D"
           },
           "diff.delta": {
             "color": "#3D5F7A"
@@ -1135,10 +1135,10 @@
             "font_style": "italic"
           },
           "error": {
-            "color": "#B03A2E"
+            "color": "#AF392D"
           },
           "warning": {
-            "color": "#7B5F1B"
+            "color": "#7A5E1A"
           }
         }
       }
